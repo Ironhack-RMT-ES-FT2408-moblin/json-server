@@ -1,0 +1,45 @@
+{
+  "companies": [
+    {
+      "id": "1234",
+      "name": "Sony",
+      "location": "Japan",
+      "foundedIn": 1946
+    },
+    {
+      "id": "2345",
+      "name": "Nintendo",
+      "location": "Japan",
+      "foundedIn": 1889
+    },
+    {
+      "id": "3456",
+      "name": "Microsoft",
+      "location": "US",
+      "foundedIn": 1975
+    }
+  ],
+  "games": [
+    {
+      "title": "The Legend of Zelda Breath of the Wild",
+      "category": "adventure",
+      "rating": 10,
+      "companyId": "2345",
+      "id": "abcd"
+    },
+    {
+      "title": "Mario Sunshine",
+      "category": "adventure",
+      "rating": 9,
+      "companyId": "2345",
+      "id": "fgrt"
+    },
+    {
+      "title": "God of War",
+      "category": "action",
+      "rating": 7,
+      "companyId": "1234",
+      "id": "_TMRL5f"
+    }
+  ]
+}
